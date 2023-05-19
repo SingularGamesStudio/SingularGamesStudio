@@ -15,6 +15,23 @@ e-mail: kirgrisha04@mail.ru
     
   <tbody>
     <tr>
+        <td>Other<br>projects</td>
+        <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/PawnManager">PawnManager</a></td>
+                <td><a>Online strategy, based on resource management</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
+                <td><a>Strategical game "Viruses war"</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
+                <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
+            </tr>
+        </table></td>
+    </tr>
+    <tr>
         <td>Educational<br>projects</td>
         <td><table>
             <tr>
@@ -32,23 +49,6 @@ e-mail: kirgrisha04@mail.ru
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Geom">Geometry</a></td>
                 <td><a>Geometry library for C++</a></td>
-            </tr>
-        </table></td>
-    </tr>
-    <tr>
-        <td>Other<br>projects</td>
-        <td><table>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/PawnManager">PawnManager</a></td>
-                <td><a>Online strategy, based on resource management</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
-                <td><a>Strategical game "Viruses war"</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
-                <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
             </tr>
         </table></td>
     </tr>
