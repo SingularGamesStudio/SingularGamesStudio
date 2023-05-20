@@ -60,10 +60,6 @@ e-mail: kirgrisha04@mail.ru
                 <td><a>A space simulator with complex body physics <br>and generation of infinitely precise landscapes</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/Havchik">Planet "Havchik"</a></td>
-                <td><a>Open-world RPG, released in Google Play</a></td>
-            </tr>
-            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
                 <td><a>Rithm-runner, created in a game-jam</a></td>
             </tr>
