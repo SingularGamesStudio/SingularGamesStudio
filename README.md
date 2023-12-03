@@ -27,7 +27,7 @@ e-mail: kirgrisha04@mail.ru
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/ArmHack">Pricing</a></td>
-                <td><a>Preducting armature pricing in Russia</a></td>
+                <td><a>Predicting armature pricing in Russia</a></td>
             </tr>
         </table></td>
     </tr>
