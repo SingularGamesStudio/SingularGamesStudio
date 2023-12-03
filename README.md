@@ -15,6 +15,23 @@ e-mail: kirgrisha04@mail.ru
     
   <tbody>
     <tr>
+        <td>ML<br>projects</td>
+        <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
+                <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/CarHack">Parking</a></td>
+                <td><a>Predicting whether a person would buy a parking place</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/ArmHack">Pricing</a></td>
+                <td><a>Preducting armature pricing in Russia</a></td>
+            </tr>
+        </table></td>
+    </tr>
+    <tr>
         <td>Other<br>projects</td>
         <td><table>
             <tr>
@@ -24,10 +41,6 @@ e-mail: kirgrisha04@mail.ru
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
                 <td><a>Strategical game "Viruses war"</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
-                <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
             </tr>
         </table></td>
     </tr>
@@ -49,6 +62,10 @@ e-mail: kirgrisha04@mail.ru
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Geom">Geometry</a></td>
                 <td><a>Geometry library for C++</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Grammars">Grammars</a></td>
+                <td><a>Grammar parsing algorithms</a></td>
             </tr>
         </table></td>
     </tr>
