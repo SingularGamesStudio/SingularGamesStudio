@@ -48,10 +48,6 @@ e-mail: kirgrisha04@mail.ru
         <td>Educational<br>projects</td>
         <td><table>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/Pixelize">Pixelization</a></td>
-                <td><a>Fast and precise image downscaling using edge detection</a></td>
-            </tr>
-            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Matrix">Matrix</a></td>
                 <td><a>Matrix library С++</a></td>
             </tr>
@@ -67,6 +63,10 @@ e-mail: kirgrisha04@mail.ru
                 <td><a href="https://github.com/SingularGamesStudio/Grammars">Grammars</a></td>
                 <td><a>Grammar parsing algorithms</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Pixelize">Pixelization</a></td>
+                <td><a>(Old)Fast and precise image downscaling using edge detection</a></td>
+            </tr>
         </table></td>
     </tr>
     <tr>
@@ -77,12 +77,12 @@ e-mail: kirgrisha04@mail.ru
                 <td><a>A space simulator with complex body physics <br>and generation of infinitely precise landscapes</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
-                <td><a>Rithm-runner, created in a game-jam</a></td>
+                <td><a href="https://github.com/SingularGamesStudio/TrianglesGame">Sandbox</a></td>
+                <td><a>(Old)Sandbox game with a procedural world made of equilateral triangles</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/TrianglesGame">Sandbox</a></td>
-                <td><a>Sandbox game with a procedural world made of equilateral triangles</a></td>
+                <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
+                <td><a>(Old)Rhythm-runner, created in a game-jam</a></td>
             </tr>
         </table></td>
     </tr>
