@@ -20,6 +20,10 @@ e-mail: kirgrisha04@mail.ru
         <td>ML<br>projects</td>
         <td><table>
             <tr>
+                <td><a href="https://github.com/SingularGamesStudio/VideoDuplicate">Video Duplicate</a></td>
+                <td><a>Efficient video duplicate search using custom embeddings</a></td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
                 <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
             </tr>
@@ -74,6 +78,10 @@ e-mail: kirgrisha04@mail.ru
     <tr>
         <td>Unity<br>projects</td>
         <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Space">Life</a></td>
+                <td><a>The Game of Life simulation with fast rendering</a></td>
+            </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Space">Space</a></td>
                 <td><a>A space simulator with complex body physics <br>and generation of infinitely precise landscapes</a></td>
