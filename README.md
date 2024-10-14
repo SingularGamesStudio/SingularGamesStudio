@@ -79,8 +79,8 @@ e-mail: kirgrisha04@mail.ru
         <td>Unity<br>projects</td>
         <td><table>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/Space">Life</a></td>
-                <td><a>The Game of Life simulation with fast rendering</a></td>
+                <td><a href="https://github.com/SingularGamesStudio/Life">Life</a></td>
+                <td><a>The Game of Life simulation with fast rendering and pvp gameplay</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Space">Space</a></td>
