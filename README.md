@@ -54,8 +54,12 @@ e-mail: kirgrisha04@mail.ru
         <td>Educational<br>projects</td>
         <td><table>
             <tr>
+                <td><a href="https://github.com/SingularGamesStudio/backup">Backup</a></td>
+                <td><a>Incremental backup system in Go</a></td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Matrix">Matrix</a></td>
-                <td><a>Matrix library С++</a></td>
+                <td><a>Matrix library for С++</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/BigInt">BigInteger</a></td>
