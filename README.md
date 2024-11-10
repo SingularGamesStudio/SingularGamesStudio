@@ -59,11 +59,7 @@ e-mail: kirgrisha04@mail.ru
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Matrix">Matrix</a></td>
-                <td><a>Matrix library for С++</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/BigInt">BigInteger</a></td>
-                <td><a>Numerical library for C++ with infinitely long number support</a></td>
+                <td><a>Matrix library for С++ with infinitely long number support</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Geom">Geometry</a></td>
