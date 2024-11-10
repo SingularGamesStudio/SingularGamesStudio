@@ -1,10 +1,10 @@
 ## Hey there, I am Grigory, CS student in MIPT
 
-<big><td><a href="https://github.com/SingularGamesStudio/PawnManager">My Biggest Project</a></td> - A real-time strategy game based on resource management</big>
+Currently working as a junior GoLang developer in T-Bank, team Architecture Research and Transformation
 
 Contact me:
 
-telegram: [@eeestrelok](https://t.me/eeestrelok)
+telegram: [@griskir](https://t.me/griskir)
 
 e-mail: kirgrisha04@mail.ru
 
