@@ -45,6 +45,10 @@ e-mail: kirgrisha04@mail.ru
                 <td><a>Online strategy, based on resource management</a></td>
             </tr>
             <tr>
+                <td><a href="https://github.com/SingularGamesStudio/LunarLander">Lunar Lander</a></td>
+                <td><a>2D physics game on C++, landing a rocket on the moon</a></td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
                 <td><a>Strategical game "Viruses war"</a></td>
             </tr>
