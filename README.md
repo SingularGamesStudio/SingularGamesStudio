@@ -1,6 +1,8 @@
 ## Hey there, I am Grigory, CS student in MIPT
 
-Currently working as a junior GoLang developer in T-Bank, team Architecture Research and Transformation
+Worked for 1.5 years as a junior GoLang developer in T-Bank, team Architecture Research and Transformation
+
+Currently working on my [Diploma](https://github.com/SingularGamesStudio/Shattered)
 
 Contact me:
 
