@@ -22,7 +22,7 @@ e-mail: kirgrisha04@mail.ru
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Shattered">Shattered engine</a></td>
                 <td><a>HLSL, C#</a></td>
-                <td><a>A physics engine using an improved XPBI algorithm for plastic deformation and tearing</a></td>
+                <td><a>A physics engine using an improved XPBI algorithm<br> for plastic deformation and tearing</a></td>
             </tr>
         </table></td>
     </tr>
@@ -86,17 +86,17 @@ e-mail: kirgrisha04@mail.ru
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Pandemy">Pandemy</a></td>
-                <td><a>Python, PyTorch, CatBoost</a></td>
-                <td><a>Neural network, predicting pandemy development in cities of Russia</a></td>
+                <td><a>PyTorch, CatBoost</a></td>
+                <td><a>Neural network, predicting pandemy development<br> in cities of Russia</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/CarHack">Parking</a></td>
-                <td><a>Python, CatBoost, XGBoost, LightGBM</a></td>
+                <td><a>CatBoost, XGBoost, LightGBM</a></td>
                 <td><a>Predicting whether a person would buy a parking place</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/ArmHack">Pricing</a></td>
-                <td><a>Python, CatBoost</a></td>
+                <td><a>CatBoost</a></td>
                 <td><a>Predicting armature pricing in Russia</a></td>
             </tr>
         </table></td>
