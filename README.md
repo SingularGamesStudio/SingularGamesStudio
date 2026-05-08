@@ -17,6 +17,15 @@ e-mail: kirgrisha04@mail.ru
     
   <tbody>
     <tr>
+        <td>Research<br>project</td>
+        <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Shattered">Shattered engine</a></td>
+                <td><a>A physics engine using an improved XPBI algorithm for plastic deformation and tearing</a></td>
+            </tr>
+        </table></td>
+    </tr>
+    <tr>
         <td>ML<br>projects</td>
         <td><table>
             <tr>
@@ -38,25 +47,12 @@ e-mail: kirgrisha04@mail.ru
         </table></td>
     </tr>
     <tr>
-        <td>Other<br>projects</td>
-        <td><table>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/PawnManager">PawnManager</a></td>
-                <td><a>Online strategy, based on resource management</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/LunarLander">Lunar Lander</a></td>
-                <td><a>2D physics game on C++, landing a rocket on the moon</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
-                <td><a>Strategical game "Viruses war"</a></td>
-            </tr>
-        </table></td>
-    </tr>
-    <tr>
         <td>Educational<br>projects</td>
         <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/graphics-course">Graphics</a></td>
+                <td><a>Implementation of diffent graphical techniques in Vulkan</a></td>
+            </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/backup">Backup</a></td>
                 <td><a>Incremental backup system in Go</a></td>
@@ -80,8 +76,16 @@ e-mail: kirgrisha04@mail.ru
         </table></td>
     </tr>
     <tr>
-        <td>Unity<br>projects</td>
+        <td>Gamedev<br>projects</td>
         <td><table>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/UnrealProject">UE Roguelike</a></td>
+                <td><a>Survivors-like multiplayer game with a complex spellcasting system</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/Babel">Babel</a></td>
+                <td><a>A immersive sim game prototype with procedural motion</a></td>
+            </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/Life">Life</a></td>
                 <td><a>The Game of Life simulation with fast rendering and pvp gameplay</a></td>
@@ -97,6 +101,18 @@ e-mail: kirgrisha04@mail.ru
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
                 <td><a>(Old)Rhythm-runner, created in a game-jam</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/PawnManager">PawnManager</a></td>
+                <td><a>Online strategy, based on resource management</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/LunarLander">Lunar Lander</a></td>
+                <td><a>2D physics game on C++, landing a rocket on the moon</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
+                <td><a>Strategical game "Viruses war"</a></td>
             </tr>
         </table></td>
     </tr>
