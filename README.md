@@ -4,11 +4,23 @@ Worked for 1.5 years as a junior GoLang developer in T-Bank, team Architecture R
 
 Currently working on my [Diploma](https://github.com/SingularGamesStudio/Shattered)
 
-Contact me:
-
-telegram: [@griskir](https://t.me/griskir)
-
-e-mail: kirgrisha04@mail.ru
+<table>
+  <thead>
+    <tr>
+      <td><a>Contact me:</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Telegram</td>
+        <td><a href="https://t.me/griskir">@griskir</a></td>
+    </tr>
+    <tr>
+        <td>E-Mail</td>
+        <td><a href="kirgrisha04@mail.ru">kirgrisha04@mail.ru</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>
@@ -52,11 +64,6 @@ e-mail: kirgrisha04@mail.ru
                 <td><a>A space simulator with generation of infinitely precise landscapes</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/SingularGamesStudio/TrianglesGame">Sandbox</a></td>
-                <td><a>Unity, C#</a></td>
-                <td><a>(Old)Sandbox game with a procedural world made of equilateral triangles</a></td>
-            </tr>
-            <tr>
                 <td><a href="https://github.com/SingularGamesStudio/PawnManager">PawnManager</a></td>
                 <td><a>C++</a></td>
                 <td><a>Online strategy, based on resource management</a></td>
@@ -70,6 +77,11 @@ e-mail: kirgrisha04@mail.ru
                 <td><a href="https://github.com/SingularGamesStudio/VirusesPython">Viruses</a></td>
                 <td><a>Python</a></td>
                 <td><a>Strategical game "Viruses war"</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/SingularGamesStudio/TrianglesGame">Sandbox</a></td>
+                <td><a>Unity, C#</a></td>
+                <td><a>(Old)Sandbox game with a procedural world made of equilateral triangles</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
