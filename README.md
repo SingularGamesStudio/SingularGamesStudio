@@ -81,7 +81,7 @@ Currently working on my [Diploma](https://github.com/SingularGamesStudio/Shatter
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/TrianglesGame">Sandbox</a></td>
                 <td><a>Unity, C#</a></td>
-                <td><a>(Old)Sandbox game with a procedural world made of equilateral triangles</a></td>
+                <td><a>(Old)Sandbox game with a procedural world on triangular grid</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/SingularGamesStudio/HKJam">Grind Hero</a></td>
